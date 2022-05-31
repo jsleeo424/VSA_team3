@@ -6,7 +6,7 @@
 
 * Run activity recognition model
     * [X] Pytorch (ONNX): ResNet34
-    * [ ] Pytorch (ONNX): TBD
+    * [X] Pytorch (pre-trained): TSN [(colab link)](https://colab.research.google.com/github/open-mmlab/mmaction2/blob/master/demo/mmaction2_tutorial.ipynb)
 
 * Run face recognition model
     * [X] Pytorch: MTCNN [(face-recogntion)](https://github.com/timesler/facenet-pytorch)
