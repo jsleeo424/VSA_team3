@@ -15,4 +15,6 @@
 
 * Setup Jetson Nano
     * [X] Connecting Jetson Nano to WIFI.
-    * [ ] NVIDIA DLI course: [https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about)
+    * [X] Attaching Raspberry Pi Camera to Jetson Nano.
+    * [X] NVIDIA DLI course: [https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about)
+    * [X] Running DL task on the Jetson Nano usin DeepStream.
