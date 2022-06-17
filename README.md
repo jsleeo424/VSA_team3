@@ -35,7 +35,7 @@
 
 * Environment Setup
     * [X] Setup: [https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html](https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html)
-    * [X] Dataset: [HMDE51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+    * [X] Dataset: [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
     * [X] Data Preprocessing: [https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes)
 
 * Transfer Learning
