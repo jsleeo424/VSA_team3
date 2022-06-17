@@ -19,16 +19,25 @@
     * [X] NVIDIA DLI course: [https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about)
     * [X] Running DL task on the Jetson Nano usin DeepStream.
 
-## Milestone 2: Experiment with Transfer Learning (06.03.22 ~ 06.17.22)
+## Milestone 2: Experiment with Transfer Learning
+
+### Transfer Learning (06.03.22 ~ 06.10.22)
+
+* Enviroment Setup
+    * [X] Baseline: [https://github.com/kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
+    * [X] Dataset: [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php)
 
 * Transfer Learning
-    * [X] Baseline: [https://github.com/kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
-    * [X] Choose Model: 3D ResNets for Action Recognition
-    * [X] Dataset: [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php)
+    * [X] Model: 3D ResNets for Action Recognition
     * [X] Transfer Learning with UCF-101
 
-* Setting up TAO (Train, Adapt, and Optimize)
-    * [X] Environment Setup: [https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html](https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html)
+### TAO (Train, Adapt, and Optimize) (06.11.22 ~ 06.17.22)
+
+* Environment Setup
+    * [X] Setup: [https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html](https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html)
     * [X] Dataset: [HMDE51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
     * [X] Data Preprocessing: [https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes)
-    * [X] Transfer Learning with TAO for action recognition [link](https://developer.nvidia.com/blog/developing-and-deploying-your-custom-action-recognition-application-without-any-ai-expertise-using-tao-and-deepstream/)
+
+* Transfer Learning
+    * [X] Model: 2D ResNet for Action Recognition
+    * [X] Transfer Learning with TAO for action recognition [(link)](https://developer.nvidia.com/blog/developing-and-deploying-your-custom-action-recognition-application-without-any-ai-expertise-using-tao-and-deepstream/)
