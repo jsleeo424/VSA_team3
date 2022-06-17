@@ -29,6 +29,6 @@
 
 * Setting up TAO (Train, Adapt, and Optimize)
     * [X] Environment Setup: [https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html](https://docs.nvidia.com/tao/tao-toolkit/text/tao_toolkit_quick_start_guide.html)
-    * [X] Dataset: [UCF-101](https://www.crcv.ucf.edu/data/UCF101.php)
+    * [X] Dataset: [HMDE51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
     * [X] Data Preprocessing: [https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes](https://github.com/NVIDIA-AI-IOT/tao_toolkit_recipes)
     * [X] Transfer Learning with TAO for action recognition [link](https://developer.nvidia.com/blog/developing-and-deploying-your-custom-action-recognition-application-without-any-ai-expertise-using-tao-and-deepstream/)
